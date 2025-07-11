@@ -104,7 +104,6 @@ int main() {
             break;
         }
 
-        // 换人
         if(token == 'x'){
             token = '0';
         } else {
